@@ -1,6 +1,10 @@
-### Olá! 🤗
+### Hi! 🤗
 
-Bacharela em Sistemas de Informação pela Universidade do Estado da Bahia, pós graduanda em Ciências de Dados e Big Data pela Universidade Federal da Bahia. Atualmente atuando em desenvolvimento e manutenção de projetos de BI com tecnologias Oracle e Microsoft nas áreas de saúde, educação e indústria. Meu propósito é ajudar a melhorar os negócios e a habilidade analítica das pessoas.
+I am a Data Science and Big Data specialist graduated from the Federal University of Bahia, with a solid 6-year experience in Business Intelligence project consulting. I have a track record of turning data into valuable insights for management across various sectors, including healthcare, education, industry, and insurance.
+
+My experience encompasses mastery of various data extraction and manipulation tools, including PL/SQL, Python (with Jupyter Notebook), R, Oracle Warehouse Builder, Analysis Services, Pentaho Data Integration, and Talend. Additionally, I possess advanced skills in data visualization, using tools such as OBIEE, Power BI, QlikView, Tableau, and Looker Studio.
+
+My objective is to contribute to business success and enhance team analytical skills by providing efficient and effective data analysis solutions.
 
 <img src="https://image.flaticon.com/icons/png/512/174/174857.png" height="15" width="15"></img> <a href="https://www.linkedin.com/in/deboraosantana/" target="_blank">deboraosantana</a>
 
